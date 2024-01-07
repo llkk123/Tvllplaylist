@@ -41,6 +41,8 @@ https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_3000.m3u8
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_3000.m3u8
 #EXTINF:-1 tvg-name="ICI Télé Montréal (2)"tvg-id="CBFT.-.ICI.Radio-Canada.(CBFT).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="43"group-title="📺 Canada Français",ICI Télé Montréal (2)
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
+#EXTINF:-1 tvg-name="ICI Télé X (1)"tvg-id="CBFT.-.ICI.Radio-Canada.(CBFT).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="43"group-title="📺 Canada Français",ICI Télé X (1)
+http://tvmate.icu:8080/jesus1/jesus1/57484#checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-name="ICI Télé Ontario"tvg-id="CBLFT.ICI.Radio-Canada.(Toronto).(IRC).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="45"group-title="📺 Canada Français",ICI Télé Ontario
 https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_3000.m3u8
 #EXTINF:-1 tvg-name="ICI Télé Ottawa-Gatineau"tvg-id="CBOFT.ICI.Radio-Canada.HDTV.(Ottawa).(IRCHD).ca"tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png"tvg-chno="47"group-title="📺 Canada Français",ICI Télé Ottawa-Gatineau
@@ -64,32 +66,26 @@ http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3
 #EXTINF:-1 tvg-name="CPAC FR"tvg-id="CPAC.French.HD.(CPACFH).ca"tvg-logo="https://i.imgur.com/5ym6eJS.png"tvg-chno="59"group-title="📺 Canada Français",CPAC FR
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="Canada French",CA (FR) TVA Montreal FHD B alliptvlinks.com
+http://tvmate.icu:8080/jesus1/jesus1/57497#checkedby:alliptvlinks.com
 
-#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US ABC 7 (WBBJ) Jackson H alliptvlinks.com
-http://tvmate.icu:8080/jesus1/jesus1/147203#checkedby:alliptvlinks.com
-
-
-
-
-
-
-#EXTINF:-1 group-title="Canada French",CA FR RDS INFO 
+#EXTINF:-1 tvg-name="RDS INFO"tvg-id=""RDS.Info.(RDSINFO).ca"tvg-chno="1"group-title="📺 Canada Français",RDS INfo
 http://tvmate.icu:8080/jesus1/jesus1/57491#checkedby:alliptvlinks.com
-
-
-#EXTINF:-1,CA Cartoon Network
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61080#checkedby:alliptvlinks.com
-
-
-#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="Canada French",CA (FR) RDS R alliptvlinks.com
+#EXTINF:-1 tvg-name="RDS INFO 2"tvg-id=""RDS.Info.(RDSINFO).ca"tvg-chno="1"group-title="📺 Canada Français",RDS INfo 2
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61170#checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-name="RDS"tvg-id="Réseau.des.sports.(RDS).ca"tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png"tvg-chno="1"group-title="📺 Canada Français",RDS (1)
 http://tvmate.icu:8080/jesus1/jesus1/57325#checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="Canada French",CA (FR) RDS2 HD B alliptvlinks.com
+http://tvmate.icu:8080/jesus1/jesus1/57490#checkedby:alliptvlinks.com
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png" group-title="Canada French",CA (FR) ICI Tele Montreal HD D alliptvlinks.com
-http://tvmate.icu:8080/jesus1/jesus1/57484#checkedby:alliptvlinks.com
-
-#EXTINF:-1,Fox Sports 1 HD Backup NO_2 alliptvlinks.com
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/236#checkedby:alliptvlinks.com
+#EXTINF:-1,CA FR TVA SPORTS alliptvlinks.com
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61165#checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="Canada French",CA FR TVA SPORTS 1 alliptvlinks.com
+http://tvmate.icu:8080/jesus1/jesus1/57498#checkedby:alliptvlinks.com
+#EXTINF:-1,CA FR TVA SPORTS Backup NO_1 alliptvlinks.com
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61165#checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="Canada French",CA (FR) TVA Sports 2 alliptvlinks.com
+http://tvmate.icu:8080/jesus1/jesus1/57337#checkedby:alliptvlinks.com
 
 #EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png" group-title="Canada French",CA (FR) Canal D SD P alliptvlinks.com
 http://tvmate.icu:8080/jesus1/jesus1/57479#checkedby:alliptvlinks.com
@@ -99,123 +95,116 @@ http://45.166.92.22:58001/play/a02m/index.m3u8#checkedby:alliptvlinks.com
 http://tvmate.icu:8080/jesus1/jesus1/57493#checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-logo="https://m1.quebecormedia.com/static/evasion_logo-7c49c3a9c47d4091914548733608e3c4.png" group-title="Canada French",CA (FR) Evasion SD P alliptvlinks.com
 http://tvmate.icu:8080/jesus1/jesus1/57482#checkedby:alliptvlinks.com
-
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="Sports github",Pluto TV NFL Channel (720p) [Not] [24/7] alliptvlinks.com
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&checkedby:alliptvlinks.com
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Ztele_%28channel%29_.png/120px-Ztele_%28channel%29_.png" group-title="Canada French",CA (FR) NOOVO D alliptvlinks.com
 http://tvmate.icu:8080/jesus1/jesus1/57501#checkedby:alliptvlinks.com
 
 #EXTINF:-1,CA FR CASA alliptvlinks.com
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61182#checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="Canada French",CA (FR) CASA SD P alliptvlinks.com
+http://tvmate.icu:8080/jesus1/jesus1/116948#checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="Canada French",CA (FR) CASA SD P alliptvlinks.com
+https://alliptvlinks.com/get-data/stream-link/b066dfed8d2615a941b2d9a7d4312ef3/
 
-#EXTINF:-1 tvg-country="US" group-title="Sports",Pluto TV NFL Channel alliptvlinks.com
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:alliptvlinks.com
-#EXTINF:-1,CA CBC MONTREAL Backup NO_1 alliptvlinks.com
-http://ufospeeds.com:2095/Blockchain/Blockchain6969/1957#checkedby:alliptvlinks.com
-
-#EXTINF:-1,CA TSN 4 alliptvlinks.com
-http://splaytv.club:80/W6WYelNNaN/Hy9rHTCEyj/139722#checkedby:alliptvlinks.com
-
-#EXTINF:-1,CA FR TVA SPORTS alliptvlinks.com
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61165#checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="Спорт ⛸⚽️‍",FOX Sports HD alliptvlinks.com
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="SKY SPORTS",SKY SPORTS ACTION NFL alliptvlinks.com
-http://89.187.167.92:80/live.ts?channelId=139&deviceUser=alex1234&devicePass=alex1234&uid=21890&checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="ESPORTES ONLINE",NFL REDZONE USA alliptvlinks.com
-http://main.xplus2-main.xyz:2082/Tourobox2-I0wx0BtUsL/PkR1Jp7P8A/1130#checkedby:alliptvlinks.com
-
-#EXTINF:-1 group-title="Sports Fanatic",USESPN 2 alliptvlinks.com
-http://tvmate.icu:8080/jesus1/jesus1/2210#checkedby:alliptvlinks.com
-#EXTINF:-1,CA TSN 1 Backup NO_3 alliptvlinks.com
-http://splaytv.club:80/W6WYelNNaN/Hy9rHTCEyj/139721#checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="Sports Fanatic",CA Sportsnet Pacific (FHD) alliptvlinks.com
-http://tvmate.icu:8080/jesus1/jesus1/9860#checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="SPORTS BOX",SPORTSNET ONE HD (CA) Backup NO_2 alliptvlinks.com
-https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20995#checkedby:alliptvlinks.com
-
-#EXTINF:-1,TV5 HD (CA) alliptvlinks.com
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27519#checkedby:alliptvlinks.com
-
-#EXTINF:-1 group-title="Sports Fanatic",US Sportsnet New York (SNY) A alliptvlinks.com
-http://tvmate.icu:8080/jesus1/jesus1/20938#checkedby:alliptvlinks.com
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="Canada French",CA (FR) TVA Sports 2 alliptvlinks.com
-http://tvmate.icu:8080/jesus1/jesus1/57337#checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="Sports Fanatic",CA Sportsnet Ontario (FHD) alliptvlinks.com
-http://tvmate.icu:8080/jesus1/jesus1/11649#checkedby:alliptvlinks.com
-#EXTINF:-1,USA FOX SPORTS TWO HD Backup NO_1 alliptvlinks.com
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58510#checkedby:alliptvlinks.com
-#EXTINF:-1,CA FR ICI ARTV Backup NO_1 alliptvlinks.com
-http://ufospeeds.com:2095/Blockchain/Blockchain6969/2120#checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="CANAIS | FOX SPORTS",FOX SPORTS 2 FHD¹ Backup NO_1 alliptvlinks.com
-http://7go.xyz:8080/manoel5047/lopes2084/18655#checkedby:alliptvlinks.com
-#EXTINF:-1,CA FR TVA SPORTS Backup NO_1 alliptvlinks.com
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61165#checkedby:alliptvlinks.com
-
-#EXTINF:-1 group-title="CANADA",CA Sportsnet Ontario Backup NO_2 alliptvlinks.com
-http://tvmate.icu:8080/jesus1/jesus1/57463#checkedby:alliptvlinks.com
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0ZmcpEE.png" group-title="Canada github",Télé-Québec (720p) alliptvlinks.com
-https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8#checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-logo="https://m1.quebecormedia.com/static/zeste_logo-ffeaa4f2fe1a4f0c8ce428a1e2043115.png" group-title="Canada French",CA (FR) Zeste HD B alliptvlinks.com
 http://tvmate.icu:8080/jesus1/jesus1/57502#checkedby:alliptvlinks.com
 
 #EXTINF:-1 group-title="Canada French",CA (FR) ICI RDI D alliptvlinks.com
 http://tvmate.icu:8080/jesus1/jesus1/164369#checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="TEST",NHL HD alliptvlinks.com
-http://saveukraine.only4.tv/7997/video.m3u8?token=saveUkrain&checkedby:alliptvlinks.com
-#EXTINF:-1,CA ICI Tele Quebec alliptvlinks.com
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59822#checkedby:alliptvlinks.com
-#EXTINF:-1,CA Sportsnet West HD Backup NO_1 alliptvlinks.com
-http://splaytv.club:80/W6WYelNNaN/Hy9rHTCEyj/150353#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/320px-ESPN_4_logo.svg.png" group-title="ESPORTES",ESPN 4 HD alliptvlinks.com
-http://tv1.cs10.tv:80/iptv51652761/34420/130#checkedby:alliptvlinks.com
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="Canada French",CA (FR) TVA Montreal FHD B alliptvlinks.com
-http://tvmate.icu:8080/jesus1/jesus1/57497#checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="FRENCH CANADIAN",CA (FR) Meteo Media Montreal B alliptvlinks.com
-http://ua-iptv.com:8080/Perkins/Perkins/226976#checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="Canada French",CA FR TVA SPORTS 1 alliptvlinks.com
-http://tvmate.icu:8080/jesus1/jesus1/57498#checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="Sports Fanatic",US NBC Sports California A alliptvlinks.com
-http://tvmate.icu:8080/jesus1/jesus1/20940#checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="Canada French",CA (FR) LCNE alliptvlinks.com
 http://tvmate.icu:8080/jesus1/jesus1/57968#checkedby:alliptvlinks.com
-#EXTINF:-1,UK Sky Sports NFL ᶠᴴᴰ alliptvlinks.com
-http://zyniptv.com:8080/iptv-volkan/HZS49fEXSgye/151590#checkedby:alliptvlinks.com
 
-#EXTINF:-1 group-title="Sports Fanatic",US NBC Sports Boston A alliptvlinks.com
-http://tvmate.icu:8080/jesus1/jesus1/20939#checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="SPORTS BOX",TSN 1 HD (CA) Backup NO_1 alliptvlinks.com
-https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/21006#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_D_logo.png" group-title="CANADA EN",|CA| Canal D alliptvlinks.com
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/141122.ts#checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="FRENCH CANADIAN",CA (FR) ICI ARTV HD B alliptvlinks.com
-http://ua-iptv.com:8080/Perkins/Perkins/226955#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" group-title="Canada French",CA (FR) RDS2 HD B alliptvlinks.com
-http://tvmate.icu:8080/jesus1/jesus1/57490#checkedby:alliptvlinks.com
+#EXTINF:-1,CA Tele Quebec alliptvlinks.com
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59822#checkedby:alliptvlinks.com
 #EXTINF:-1,CA TELE QUEBEC Backup NO_1 alliptvlinks.com
 http://xloxttv.info:8080/p39xpG7vbXkv/uMCjftpjZ9Wb/30781#checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ZmcpEE.png" group-title="Canada github",Télé-Québec (720p) alliptvlinks.com
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8#checkedby:alliptvlinks.com
 
-#EXTINF:-1,CA FR RDS INFO Backup NO_1 alliptvlinks.com
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61170#checkedby:alliptvlinks.com
-#EXTINF:-1,FOX Sports 2 FHD [H265] alliptvlinks.com
-http://splaytv.club:80/W6WYelNNaN/Hy9rHTCEyj/83389#checkedby:alliptvlinks.com
-#EXTINF:-1,USA SPORTSNET ONTARIO Backup NO_3 alliptvlinks.com
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/58606#checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="Canada French",CA (FR) CASA SD P alliptvlinks.com
-http://tvmate.icu:8080/jesus1/jesus1/116948#checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="FRENCH CANADIAN",CA (FR) Meteo Media Montreal B alliptvlinks.com
+http://ua-iptv.com:8080/Perkins/Perkins/226976#checkedby:alliptvlinks.com
 
-#EXTINF:-1 group-title="Canada French",CA (FR) CASA SD P alliptvlinks.com
-https://alliptvlinks.com/get-data/stream-link/b066dfed8d2615a941b2d9a7d4312ef3/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_D_logo.png" group-title="CANADA EN",|CA| Canal D alliptvlinks.com
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/141122.ts#checkedby:alliptvlinks.com
+
+#EXTINF:-1 group-title="FRENCH CANADIAN",CA (FR) ICI ARTV HD B alliptvlinks.com
+http://ua-iptv.com:8080/Perkins/Perkins/226955#checkedby:alliptvlinks.com
+#EXTINF:-1,CA FR ICI ARTV Backup NO_1 alliptvlinks.com
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/2120#checkedby:alliptvlinks.com
+
+#EXTINF:-1,TV5 HD (CA) alliptvlinks.com
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27519#checkedby:alliptvlinks.com
+
+#EXTINF:-1,CA CBC MONTREAL Backup NO_1 alliptvlinks.com
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/1957#checkedby:alliptvlinks.com
+
 #EXTINF:-1 group-title="USA | NEWS | REGIONALS",US abc36 (WTVQ) Lexington alliptvlinks.com
 http://tvmate.icu:8080/jesus1/jesus1/125674#checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="USA | NEWS | REGIONALS",US ABC 13 (WLOX) Gulfport alliptvlinks.com
 http://tvmate.icu:8080/jesus1/jesus1/120841#checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="LOCALS ABC",USA TN KNOXVILLE ABC WATE alliptvlinks.com
+http://ua-iptv.com:8080/Perkins/Perkins/225460#checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US ABC 7 (WBBJ) Jackson H alliptvlinks.com
+http://tvmate.icu:8080/jesus1/jesus1/147203#checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US ABC 6 (WDAY) Fargo H alliptvlinks.com
+http://tvmate.icu:8080/jesus1/jesus1/160730#checkedby:alliptvlinks.com
 
+#EXTINF:-1,US NBC Columbus Georgia WLTZ Backup NO_1 alliptvlinks.com
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/150865#checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="LOCALS NBC",USA CO COLORADO SPRINGS PUEBLO NBC KOAA alliptvlinks.com
+http://ua-iptv.com:8080/Perkins/Perkins/225093#checkedby:alliptvlinks.com
+
+#EXTINF:-1 tvg-country="US" group-title="United States github",FOX 61 Hartford CT (WTIC) (1080p) alliptvlinks.com
+https://livevideo01.fox61.com/hls/live/2011658/newscasts/live.m3u8#checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (WSVN) Miami F alliptvlinks.com
 http://tvmate.icu:8080/jesus1/jesus1/121242#checkedby:alliptvlinks.com
+
+#EXTINF:-1 group-title="Sports Fanatic",CA Sportsnet Ontario (FHD) alliptvlinks.com
+http://tvmate.icu:8080/jesus1/jesus1/11649#checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="CANADA",CA Sportsnet Ontario Backup NO_2 alliptvlinks.com
+http://tvmate.icu:8080/jesus1/jesus1/57463#checkedby:alliptvlinks.com
+#EXTINF:-1,CA Sportsnet West HD Backup NO_1 alliptvlinks.com
+http://splaytv.club:80/W6WYelNNaN/Hy9rHTCEyj/150353#checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="Sports Fanatic",CA Sportsnet Pacific (FHD) alliptvlinks.com
+http://tvmate.icu:8080/jesus1/jesus1/9860#checkedby:alliptvlinks.com
+
+#EXTINF:-1 group-title="SPORTS BOX",TSN 1 HD (CA) Backup NO_1 alliptvlinks.com
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/21006#checkedby#EXTINF:-1,USA SPORTSNET ONTARIO Backup NO_3 alliptvlinks.com
+#EXTINF:-1,CA TSN 1 Backup NO_3 alliptvlinks.com
+http://splaytv.club:80/W6WYelNNaN/Hy9rHTCEyj/139721#checkedby:alliptvlinks.com
+#EXTINF:-1,CA TSN 4 alliptvlinks.com
+http://splaytv.club:80/W6WYelNNaN/Hy9rHTCEyj/139722#checkedby:alliptvlinks.com
+
+#EXTINF:-1 group-title="Sports Fanatic",US Sportsnet New York (SNY) A alliptvlinks.com
+http://tvmate.icu:8080/jesus1/jesus1/20938#checkedby:alliptvlinks.com
+
+#EXTINF:-1 group-title="SPORTS BOX",SPORTSNET ONE HD (CA) Backup NO_2 alliptvlinks.com
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20995#checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="Sports Fanatic",US NBC Sports Boston A alliptvlinks.com
+http://tvmate.icu:8080/jesus1/jesus1/20939#checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="Sports Fanatic",US NBC Sports California A alliptvlinks.com
+http://tvmate.icu:8080/jesus1/jesus1/20940#checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="Sports Fanatic",USESPN 2 alliptvlinks.com
+http://tvmate.icu:8080/jesus1/jesus1/2210#checkedby:alliptvlinks.com
+#EXTINF:-1,USA FOX SPORTS TWO HD Backup NO_1 alliptvlinks.com
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58510#checkedby:alliptvlinks.com
+#EXTINF:-1,FOX Sports 2 FHD [H265] alliptvlinks.com
+http://splaytv.club:80/W6WYelNNaN/Hy9rHTCEyj/83389#checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="CANAIS | FOX SPORTS",FOX SPORTS 2 FHD¹ Backup NO_1 alliptvlinks.com
+http://7go.xyz:8080/manoel5047/lopes2084/18655#checkedby:alliptvlinks.com
+#EXTINF:-1,Fox Sports 1 HD Backup NO_2 alliptvlinks.com
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/236#checkedby:alliptvlinks.com
+
+#EXTINF:-1,UK Sky Sports NFL ᶠᴴᴰ alliptvlinks.com
+http://zyniptv.com:8080/iptv-volkan/HZS49fEXSgye/151590#checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="SKY SPORTS",SKY SPORTS ACTION NFL alliptvlinks.com
+http://89.187.167.92:80/live.ts?channelId=139&deviceUser=alex1234&devicePass=alex1234&uid=21890&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="ESPORTES ONLINE",NFL REDZONE USA alliptvlinks.com
+http://main.xplus2-main.xyz:2082/Tourobox2-I0wx0BtUsL/PkR1Jp7P8A/1130#checkedby:alliptvlinks.com
+
+
+
+
+
+
+
+
